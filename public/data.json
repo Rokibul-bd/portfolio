@@ -1,0 +1,47 @@
+[
+    {
+        "shortImg": "https://i.ibb.co/WsjCQ0f/dream-Shop.png",
+        "fullImg": "https://i.ibb.co/KrhW53p/dream-Shop.png",
+        "name": "Dream shop",
+        "title": "Dream shop website created by Rakib",
+        "liveLink": "https://dream-shop-a3d46.web.app/",
+        "githubClient": "https://github.com/Rokibul-bd/dream-shop-client",
+        "githubServer": "https://github.com/Rokibul-bd/dream-shop-server",
+        "technology": "Tailwind css , React js , Firebase , Mongodb, Express Js",
+        "status": "FullStack",
+        "text": "This Website is Resell Product website. Sell Your secend Hand Phone",
+        "text1": "Any person creates a seller account. seller access dashboard manages his product. The seller can delete his product and add products to any category.",
+        "text2": "Admin Authorization system, The admin manages the user and seller. Admin wants to delete any sellers and User.",
+        "text3": "Database MongoDB mange user seller and admin role. All user and seller data save MongoDB atlais"
+    },
+    {
+        "shortImg": "https://i.ibb.co/Jd3mWmT/trusted-Graphy.png",
+        "fullImg": "https://i.ibb.co/R4md0D5/trusted-Graphy.png",
+        "name": "Trusted Graphy",
+        "title": "Trusted Graphy website created by Rakib",
+        "liveLink": "https://trusted-graphy.web.app/",
+        "githubClient": "https://github.com/Rokibul-bd/trusted-graphy-client",
+        "githubServer": "https://github.com/Rokibul-bd/trusted-graphy-server",
+        "technology": "javascript, React js, Node Js, Firebase, MongoDB",
+        "status": "FullStack",
+        "text": "Choose your Photography items. Capture your best momonets.",
+        "text1": "The user created his account and can be booked his relevant photography. user can delete    his                 booked items.",
+        "text2": "Users can add reviews. The user can see his review a user can delete his review. Admin see users all review and orders",
+        "text3": "Without log in don't book any services. log in then redirect to the booking dashboard route and the user see all booking"
+    },
+    {
+        "shortImg": "https://i.ibb.co/xsF0F3X/js-learning.png",
+        "fullImg": "https://i.ibb.co/C9rm5Rk/js-learning.png",
+        "name": "Js Learning",
+        "title": "Js Learning website created by Rakib",
+        "liveLink": "https://js-learning-9555a.web.app/",
+        "githubClient": "https://github.com/Rokibul-bd/js-learning-client",
+        "githubServer": "https://github.com/Rokibul-bd/js-learning-server",
+        "technology": "Tailwind css , React js , Firebase , Mongodb, Express Js",
+        "status": "FullStack",
+        "text": "Choose your course and bright your future.You can choose any course",
+        "text1": "The user created an account User choose his course but user can be booking one course two times. one user can be booked on course one times ",
+        "text2": "The user clicks to checkout without log in to his redirect log-in page",
+        "text3": "The user wants to checkout his must be log in js learning website"
+    }
+]
